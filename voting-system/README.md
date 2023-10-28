@@ -13,3 +13,7 @@ Put the Address of deployed contract in Voting.Js file.
 Run the following two commands in VS Code terminal
 npm install
 npm start
+
+
+DEMO VIDEO LINK:
+      https://drive.google.com/file/d/1_MBSf-XK7rm4MrwCi0yMv7LZtQ_ZXLiQ/view?usp=drivesdk
