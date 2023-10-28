@@ -7,13 +7,13 @@ Work- Flow
 4. Only the Owner of the Contract can check the Results for the election
 
 
-Steps to use the app
-Deploy the Contract of Voting
-Put the Address of deployed contract in Voting.Js file.
-Run the following two commands in VS Code terminal
-npm install
-npm start
-
+Steps to use the app:
+1.Deploy the Contract of Voting
+2.Put the Address of deployed contract in Voting.Js file.
+3.Run the following two commands in VS Code terminal
+4.npm install
+5.npm start
+ 
 
 DEMO VIDEO LINK:
       https://drive.google.com/file/d/1_MBSf-XK7rm4MrwCi0yMv7LZtQ_ZXLiQ/view?usp=drivesdk
